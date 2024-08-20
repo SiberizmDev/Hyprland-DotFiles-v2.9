@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.97647058963775635 0.74117648601531982 0.57254904508590698))
+(palette "Color History")
+(font "Neometric Italic")
+(font-size 50)
+(justify center)
+(box-mode fixed)
+
+# end of gimp-text-tool options

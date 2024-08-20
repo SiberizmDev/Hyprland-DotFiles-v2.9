@@ -1,0 +1,14 @@
+//Auto generated color theme for image at: https://i.scdn.co/image/ab67616d0000b273932915512f27dc2993727fef
+@function bluetint($color, $percentage) {  @return mix(#CDDFED, $color, $percentage); }
+@function blueshade($color, $percentage) { @return mix(#152E50, $color, $percentage); }
+$colorbarbg: 
+$colorbg: rgba(,0.7);
+$colortext: 
+$color0: 
+$color1: 
+$color2: 
+$color3: 
+$color4: 
+$color5: 
+$color6: 
+$color7: 

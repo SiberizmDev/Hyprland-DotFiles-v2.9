@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export __GL_THREADED_OPTIMIZATIONS=1
+export __GLX_VENDOR_LIBRARY_NAME=nvidia
